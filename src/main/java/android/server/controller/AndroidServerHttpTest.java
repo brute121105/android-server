@@ -45,6 +45,7 @@ public class AndroidServerHttpTest {
 		log.info("pt-->"+JSON.toJSONString(pt));
 		return pt;
 	}
+	
 
 
 }
